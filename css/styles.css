@@ -10954,6 +10954,8 @@ html {
 
 body {
   position: relative;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 p {
